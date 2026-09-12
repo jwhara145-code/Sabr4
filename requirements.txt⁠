@@ -1,6 +1,6 @@
 streamlit
-librosa
 numpy
-plotly
 scipy
 pandas
+soundfile
+plotly
